@@ -10,6 +10,7 @@ namespace StackTraceYonetimi
     {
         static void Main(string[] args)
         {
+            //
         }
     }
 }
